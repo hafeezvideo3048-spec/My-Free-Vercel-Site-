@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://yourname.vercel.app/sitemap.xml
+Sitemap: https://my-free-vercel-site.vercel.app/sitemap.xml
